@@ -1,0 +1,400 @@
+__label__nuance_carcontrol 把 音 乐 调 到 最 大
+__label__nuance_carcontrol 把 音 乐 调 到 最 小
+__label__nuance_carcontrol 把 音 乐 调 大
+__label__nuance_carcontrol 把 音 乐 调 小
+__label__nuance_carcontrol 我 要 看 星 星
+__label__nuance_carcontrol 我 要 看 星 空
+__label__nuance_carcontrol 我 要 热 死 了
+__label__nuance_carcontrol 把 温 度 再 增 大 一 下 吧
+__label__nuance_carcontrol 把 温 度 再 增 加 一 点 吧
+__label__nuance_carcontrol 把 温 度 再 搞 高 一 下 吧
+__label__nuance_carcontrol 把 温 度 再 搞 高 一 下 吧
+__label__nuance_carcontrol 把 温 度 再 搞 高 一 下 吧
+__label__nuance_carcontrol 把 温 度 再 增 加 一 点 吧
+__label__nuance_carcontrol 我 要 热 死 了
+__label__nuance_carcontrol 我 希 望 后 备 箱 关 闭
+__label__nuance_carcontrol 调 低 一 点
+__label__nuance_carcontrol 给 我 把 天 窗 打 开
+__label__nuance_carcontrol 帮 我 把 车 灯 给 关 了
+__label__nuance_carcontrol 请 给 我 把 车 灯 给 关 了
+__label__nuance_carcontrol 帮 我 把 后 备 箱 关 了
+__label__nuance_carcontrol 座 椅 烫 手 啊
+__label__nuance_carcontrol 请 给 我 把 车 灯 给 打 开
+__label__nuance_carcontrol 帮 我 把 后 备 箱 打 开
+__label__nuance_carcontrol 开 开 1 二 分 之 一 的 窗 子
+__label__nuance_carcontrol 打 开 座 椅 加 热
+__label__nuance_carcontrol 太 吵 了
+__label__nuance_carcontrol 再 小 一 点
+__label__nuance_carcontrol 我 今 天 想 看 太 阳
+__label__nuance_carcontrol 帮 我 调 节 吹 脸 吹 脚 模 式
+__label__nuance_carcontrol 怎 么 还 出 汗 啊
+__label__nuance_carcontrol 天 下 雨 了
+__label__nuance_carcontrol 我 想 看 月 亮
+__label__nuance_carcontrol 空 调 温 度 27
+__label__nuance_carcontrol 空 调 暖 气 关 上 吧
+__label__nuance_carcontrol 把 空 调 关 掉 一 下 吧
+__label__nuance_carcontrol 退 出 黑 屏
+__label__nuance_carcontrol 打 开 座 椅 加 热
+__label__nuance_carcontrol 打 开 星 空 情 景 模 式
+__label__nuance_carcontrol 帮 我 开 开 一 下 观 赏 星 空 情 景
+__label__nuance_carcontrol 我 想 要 开 一 下 观 赏 星 空 情 景
+__label__nuance_carcontrol 天 空 可 能 要 有 雨 了 吧
+__label__nuance_carcontrol 天 也 许 要 有 雨 了 吧
+__label__nuance_carcontrol 天 可 能 要 下 雨 了 吧
+__label__nuance_carcontrol 外 面 可 能 要 下 雨 了 吧
+__label__nuance_carcontrol 双 区 同 步 启 动
+__label__nuance_carcontrol 请 为 我 把 温 度 切 换 至 0 度
+__label__nuance_carcontrol 请 你 给 我 把 温 度 切 换 成 0 度
+__label__nuance_carcontrol 麻 烦 给 我 把 温 度 设 置 为 0 度
+__label__nuance_carcontrol 我 想 要 切 换 成 17 度
+__label__nuance_carcontrol 我 需 要 切 换 到 17 度
+__label__nuance_carcontrol 替 我 打 开 到 17 度
+__label__nuance_carcontrol 请 你 给 我 切 换 至 17 度
+__label__nuance_carcontrol 请 给 我 设 成 17 度
+__label__nuance_carcontrol 麻 烦 给 我 设 到 17 度
+__label__nuance_carcontrol 双 区 同 步 启 动
+__label__nuance_carcontrol 双 区 同 步 启 动
+__label__nuance_carcontrol 双 区 同 步 启 动
+__label__nuance_carcontrol 双 区 同 步 启 动
+__label__nuance_carcontrol 我 要 感 冒 了
+__label__nuance_carcontrol 我 要 感 冒 了
+__label__nuance_carcontrol 我 要 感 冒 了
+__label__nuance_carcontrol 我 要 感 冒 了
+__label__nuance_carcontrol 我 快 要 感 冒 了
+__label__nuance_carcontrol 冷 的 我 要 感 冒 了
+__label__nuance_carcontrol 冻 的 我 要 感 冒 了
+__label__nuance_carcontrol 我 要 把 主 驾 抽 烟 模 式 打 开
+__label__nuance_carcontrol 能 不 能 帮 我 打 开 外 循 环
+__label__nuance_carcontrol 把 我 的 前 边 座 椅 加 热 打 开
+__label__nuance_carcontrol 让 阳 光 进 来
+__label__nuance_carcontrol 安 静 一 点
+__label__nuance_carcontrol 温 度 不 同 才 好
+__label__nuance_carcontrol 后 备 箱 关 闭
+__label__nuance_carcontrol 车 窗 关 闭 三 分 之 二
+__label__nuance_carcontrol 关 闭 三 分 之 一 窗 户
+__label__nuance_carcontrol 关 闭 窗 户 的 大 部 分
+__label__nuance_carcontrol 前 左 车 窗 关 闭 百 分 之 30
+__label__nuance_carcontrol 把 空 调 冷 气 关 一 下 吧
+__label__nuance_carcontrol 关 闭 最 大 制 冷
+__label__nuance_carcontrol 关 掉 最 大 制 冷
+__label__nuance_carcontrol 把 最 大 制 冷 这 个 功 能 关 闭
+__label__nuance_carcontrol 关 闭 最 小 制 冷
+__label__nuance_carcontrol 关 闭 静 音
+__label__nuance_carcontrol 打 开 声 音
+__label__nuance_carcontrol 打 开 空 调 自 动
+__label__nuance_carcontrol 打 开 疝 气 大 灯
+__label__nuance_carcontrol 左 前 车 窗 打 开 三 分 之 二
+__label__nuance_carcontrol 前 排 左 边 门 车 窗 请 开 四 分 之 三
+__label__nuance_carcontrol 摇 下 来 大 部 分 的 主 驾 车 窗
+__label__nuance_carcontrol 天 窗 开 小 于 一 半
+__label__nuance_carcontrol 打 开 天 窗 一 大 半
+__label__nuance_carcontrol 天 窗 展 开 一 丝 丝
+__label__nuance_carcontrol 打 开 最 高 制 冷
+__label__nuance_carcontrol 打 开 制 热
+__label__nuance_carcontrol 打 开 静 音
+__label__nuance_carcontrol 我 想 关 空 调
+__label__nuance_carcontrol 我 想 要 关 掉 空 调 冷 气
+__label__nuance_carcontrol 把 空 调 冷 气 关 一 下 吧
+__label__nuance_carcontrol 我 希 望 关 掉 空 调 冷 气
+__label__nuance_carcontrol 关 闭 副 驾 座 椅 加 热
+__label__nuance_carcontrol 关 闭 后 排 座 椅 加 热
+__label__nuance_carcontrol 再 调 低 一 点 空 调 吧
+__label__nuance_carcontrol 我 想 要 降 低 一 些 空 调 风 速
+__label__nuance_carcontrol 我 需 要 减 小 一 点 空 调 风 速
+__label__nuance_carcontrol 你 给 我 空 调 再 调 小 一 点 温 度
+__label__nuance_carcontrol 你 给 我 再 调 小 一 点 空 调 温 度
+__label__nuance_carcontrol 我 要 把 空 调 降 3 度
+__label__nuance_carcontrol 我 要 把 空 调 降 3 度
+__label__nuance_carcontrol 我 想 把 温 度 降 低 3 度
+__label__nuance_carcontrol 我 想 把 温 度 降 低 3 度
+__label__nuance_carcontrol 我 非 常 的 热 啊
+__label__nuance_carcontrol 我 非 常 的 热 了 啊
+__label__nuance_carcontrol 我 特 别 的 热 啊
+__label__nuance_carcontrol 我 特 别 的 热 了 啊
+__label__nuance_carcontrol 再 增 大 一 些 空 调 吧
+__label__nuance_carcontrol 再 增 大 一 些 空 调 吧
+__label__nuance_carcontrol 空 调 再 热 一 点 吧
+__label__nuance_carcontrol 空 调 再 热 一 点 儿 吧
+__label__nuance_carcontrol 麻 烦 给 我 空 调 再 增 高 一 些 温 度
+__label__nuance_carcontrol 请 为 我 调 大 一 点 空 调 风 速
+__label__nuance_carcontrol 我 需 要 调 大 一 点 空 调 风 速
+__label__nuance_carcontrol 麻 烦 给 我 空 调 再 增 高 一 些 温 度
+__label__nuance_carcontrol 我 需 要 增 大 一 点 空 调 风 速
+__label__nuance_carcontrol 请 你 给 我 把 空 调 温 度 加 1 度
+__label__nuance_carcontrol 请 你 给 我 把 空 调 温 度 加 1 度
+__label__nuance_carcontrol 帮 我 把 空 调 增 大 1 度
+__label__nuance_carcontrol 帮 我 把 空 调 增 大 1 度
+__label__nuance_carcontrol 声 音 大 一 点
+__label__nuance_carcontrol 想 把 温 度 增 1 度
+__label__nuance_carcontrol 想 把 温 度 升 1 度
+__label__nuance_carcontrol 我 需 要 调 大 成 最 大 空 调 风 速
+__label__nuance_carcontrol 请 给 我 设 置 成 最 大 空 调 温 度
+__label__nuance_carcontrol 我 想 要 增 加 成 最 高 空 调 温 度
+__label__nuance_carcontrol 增 加 风 量 到 最 大
+__label__nuance_carcontrol 增 加 风 量 到 最 大
+__label__nuance_carcontrol 请 给 我 设 置 成 最 小 空 调 温 度
+__label__nuance_carcontrol 把 风 量 调 到 最 小
+__label__nuance_carcontrol 给 我 开 开 空 调
+__label__nuance_carcontrol 我 希 望 开 一 下 空 调
+__label__nuance_carcontrol 打 开 前 排 座 椅 加 热
+__label__nuance_carcontrol 打 开 副 驾 座 椅 加 热
+__label__nuance_carcontrol 打 开 吹 脚 模 式
+__label__nuance_carcontrol 打 开 慢 刮
+__label__nuance_carcontrol 打 开 温 度 分 区
+__label__nuance_carcontrol 打 开 黑 屏 模 式
+__label__nuance_carcontrol 要 开 启 车 机 的 黑 屏 模 式
+__label__nuance_carcontrol 我 要 与 你 一 起 看 下 星 星
+__label__nuance_carcontrol 想 开 启 中 控 的 关 屏 模 式
+__label__nuance_carcontrol 请 打 开 车 的 锁 屏 模 式
+__label__nuance_carcontrol 我 想 与 你 一 起 欣 赏 星 空
+__label__nuance_carcontrol 我 要 跟 你 一 起 看 看 星 空
+__label__nuance_carcontrol 我 想 与 你 一 起 看 下 太 阳
+__label__nuance_carcontrol 我 需 要 把 空 调 温 度 切 换 为 0 度
+__label__nuance_carcontrol 要 把 温 度 调 为 13 度
+__label__nuance_carcontrol 调 为 23 度
+__label__nuance_carcontrol 调 为 自 动 空 气 扩 散
+__label__nuance_carcontrol 空 调 设 置 为 吹 脸 模 式
+__label__nuance_carcontrol 设 为 吹 脚 模 式
+__label__nuance_carcontrol 设 为 吹 脚 模 式
+__label__nuance_carcontrol 循 环 模 式
+__label__nuance_carcontrol 打 开 温 度 分 区
+__label__nuance_carcontrol 打 开 副 驾 座 椅 加 热
+__label__nuance_carcontrol 声 音 大 一 点
+__label__nuance_carcontrol 把 主 驾 避 人 吹 关 掉
+__label__nuance_carcontrol 我 特 别 的 热 啊
+__label__nuance_carcontrol 增 加 风 量 到 最 大
+__label__nuance_carcontrol 天 下 雨 了
+__label__nuance_carcontrol 调 为 自 动 空 气 扩 散
+__label__nuance_carcontrol 调 为 自 动 空 气 扩 散
+__label__nuance_carcontrol 设 为 吹 脚 模 式
+__label__nuance_carcontrol 自 动 空 气 扩 散
+__label__nuance_carcontrol 打 开 座 椅 加 热
+__label__nuance_carcontrol 打 开 座 椅 加 热
+__label__nuance_carcontrol 打 开 座 椅 加 热
+__label__nuance_carcontrol 我 想 听 到 声 音
+__label__nuance_carcontrol 我 想 听 到 声 音
+__label__nuance_carcontrol 把 空 调 关 闭 一 下 吧
+__label__nuance_carcontrol 我 需 要 把 车 的 灭 屏 模 式 退 出
+__label__nuance_carcontrol 你 给 我 把 车 的 黑 屏 模 式 启 动 一 下
+__label__nuance_carcontrol 我 要 抽 烟
+__label__nuance_carcontrol 我 想 要 抽 烟
+__label__nuance_carcontrol 我 要 抽 烟
+__label__nuance_carcontrol 我 要 选 择 为 内 循 环 模 式
+__label__nuance_carcontrol 静 音 取 消 掉
+__label__nuance_carcontrol 关 闭 所 有 声 音
+__label__nuance_carcontrol 把 音 乐 调 到 最 大
+__label__nuance_carcontrol 我 要 冻 死 了
+__label__nuance_carcontrol 黑 屏 模 式 挺 好 的
+__label__nuance_carcontrol 黑 屏 模 式 挺 棒 的
+__label__nuance_carcontrol 减 少 出 风 量
+__label__nuance_carcontrol 减 少 风 量
+__label__nuance_carcontrol 风 量 减 少
+__label__nuance_carcontrol 设 置 下 后 面 的 为 最 小
+__label__nuance_carcontrol 把 空 调 温 度 加 到 18 度
+__label__nuance_carcontrol 设 置 下 后 面 的 为 最 低
+__label__nuance_carcontrol 设 置 下 后 面 的 为 最 大
+__label__nuance_carcontrol 设 置 下 后 面 的 为 最 大
+__label__nuance_carcontrol 能 不 能 把 吹 脸 模 式 打 开
+__label__nuance_carcontrol 顶 篷 可 以 打 开 一 下 吧
+__label__nuance_carcontrol 能 帮 我 打 开 汽 车 顶 篷 吗
+__label__nuance_carcontrol 车 顶 篷 能 打 开 吗
+__label__nuance_carcontrol 顶 篷 可 以 打 开 一 下 吧
+__label__nuance_carcontrol 下 雨 了
+__label__nuance_carcontrol 音 量 放 大
+__label__nuance_carcontrol 不 要 说 话
+__label__nuance_carcontrol 风 量 调 到 第 三 格
+__label__nuance_carcontrol 风 量 调 到 第 一 格
+__label__nuance_carcontrol 风 量 调 到 第 二 档
+__label__nuance_carcontrol 空 调 23 度
+__label__nuance_carcontrol 好 热 呀
+__label__nuance_carcontrol 温 度 调 到 26
+__label__nuance_carcontrol 空 调 21 度
+__label__nuance_carcontrol 空 调 开 到 20 度
+__label__nuance_carcontrol 帮 我 把 天 窗 打 开
+__label__nuance_carcontrol 音 量 放 大
+__label__nuance_carcontrol 空 调 开 到 22 度
+__label__nuance_carcontrol 打 开 暖 气
+__label__nuance_carcontrol 知 道 空 调 温 度 吗
+__label__nuance_carcontrol 打 开 智 慧 停 车 功 能
+__label__nuance_carcontrol 打 开 智 慧 停 车
+__label__nuance_carcontrol 智 慧 停 车 开 始 工 作
+__label__nuance_carcontrol 一 块 看 星 星 吧
+__label__nuance_carcontrol 一 块 去 看 星 星 吧
+__label__nuance_carcontrol 一 起 去 看 星 星 吧
+__label__nuance_carcontrol 一 起 去 看 美 丽 的 星 星 吧
+__label__nuance_carcontrol 一 起 去 看 星 空 吧
+__label__nuance_carcontrol 一 起 去 看 浩 瀚 的 星 空 吧
+__label__nuance_carcontrol 和 你 一 起 去 看 星 星
+__label__nuance_carcontrol 应 该 是 下 雨 了
+__label__nuance_carcontrol 应 该 是 要 下 雨 了
+__label__nuance_carcontrol 停 车 到 家 庭 领 域
+__label__nuance_carcontrol 停 车 至 家 庭 领 域
+__label__nuance_carcontrol 替 我 换 到 吹 头 模 式
+__label__nuance_carcontrol 我 不 想 打 开 出 风 量
+__label__nuance_carcontrol 前 方 窗 子 摇 上 去
+__label__nuance_carcontrol 车 窗 停 止 运 行 小 一 丝 丝
+__label__nuance_carcontrol 关 闭 那 边 的 温 控 往 头 和 脚 吹
+__label__nuance_carcontrol 我 不 想 开 座 位 加 热
+__label__nuance_carcontrol 汽 车 顶 篷 帮 忙 关 闭 一 丝 丝
+__label__nuance_carcontrol 空 调 冷 气 模 式 停 掉
+__label__nuance_carcontrol 通 风 系 统 关 了 吧
+__label__nuance_carcontrol 节 能 模 式 停
+__label__nuance_carcontrol 关 掉 百 分 之 97 全 景 天 窗
+__label__nuance_carcontrol 终 止 温 控 econ 情 景
+__label__nuance_carcontrol 帮 忙 把 车 的 睡 眠 模 式 解 除
+__label__nuance_carcontrol 关 了 ECON
+__label__nuance_carcontrol 前 右 边 别 出 风
+__label__nuance_carcontrol 窗 子 给 我 关 百 分 之 48
+__label__nuance_carcontrol 车 窗 给 我 关 闭 百 分 之 十 九
+__label__nuance_carcontrol 天 窗 关 上 小 点
+__label__nuance_carcontrol 关 闭 他 的 空 调 吹 足
+__label__nuance_carcontrol 雨 刷 器 都 停 掉 了
+__label__nuance_carcontrol 不 要 报 警 灯
+__label__nuance_carcontrol 前 方 停 同 步
+__label__nuance_carcontrol 不 想 开 启 全 景 天 窗
+__label__nuance_carcontrol 温 控 ac 不 需 要
+__label__nuance_carcontrol 把 左 后 车 窗 玻 璃 停 止 百 分 之 47
+__label__nuance_carcontrol 关 下 温 控 最 低 制 冷
+__label__nuance_carcontrol 关 闭 从 这 边 对 着 这 儿 吹
+__label__nuance_carcontrol 副 驾 这 边 禁 用 扫 风
+__label__nuance_carcontrol 温 控 快 速 降 温 停
+__label__nuance_carcontrol 关 双 闪
+__label__nuance_carcontrol 窗 帮 忙 关 掉 一 点 点
+__label__nuance_carcontrol 不 需 要 进 入 雨 刷 片 了
+__label__nuance_carcontrol 我 不 要 显 示 抽 烟
+__label__nuance_carcontrol 温 控 通 风 系 统 场 景 不 要 工 作 了
+__label__nuance_carcontrol 关 一 下 小 一 点 儿 玻 璃
+__label__nuance_carcontrol 最 小 的 制 冷 不 用
+__label__nuance_carcontrol 关 闭 小 缝 的 右 窗 子
+__label__nuance_carcontrol 左 后 侧 窗 子 关 上 一 点 点
+__label__nuance_carcontrol 不 要 温 控 避 人 吹 风 场 景 了
+__label__nuance_carcontrol 空 调 扫 风 场 景 停 了
+__label__nuance_carcontrol 右 面 车 窗 玻 璃 关 掉 百 分 之 89
+__label__nuance_carcontrol 日 间 行 车 灯 关 上
+__label__nuance_carcontrol 后 左 天 窗 网 帘 不 需 要
+__label__nuance_carcontrol 前 头 停 掉 对 人 吹
+__label__nuance_carcontrol 关 掉 全 体 的 脚 底 除 霜
+__label__nuance_carcontrol 我 这 边 温 控 避 人 吹 场 景 都 关 了
+__label__nuance_carcontrol 温 控 双 区 同 步 场 景 停 下
+__label__nuance_carcontrol 左 边 门 窗 户 关 闭 百 分 之 六 十 五
+__label__nuance_carcontrol 最 小 制 冷 不 用
+__label__nuance_carcontrol 空 调 别 吹 脚 和 除 霜
+__label__nuance_carcontrol 停 止 运 行 百 分 之 四 十 九 车 窗
+__label__nuance_carcontrol 左 车 窗 给 我 关 上 大 于 一 半
+__label__nuance_carcontrol 关 一 下 声 音
+__label__nuance_carcontrol 通 风 场 景 关 掉
+__label__nuance_carcontrol 我 不 想 开 始 关 停
+__label__nuance_carcontrol 退 出 副 驾 驶 那 里 空 调 避 免 对 左 手 边 吹 模 式
+__label__nuance_carcontrol 关 掉 左 方 门 窗 七 分 之 六
+__label__nuance_carcontrol 关 音 效
+__label__nuance_carcontrol 所 有 窗 不 需 要 小 一 点 儿
+__label__nuance_carcontrol 敞 蓬 给 我 闭 百 分 之 59
+__label__nuance_carcontrol 汽 车 顶 篷 闭 百 分 之 五 十 三
+__label__nuance_carcontrol 汽 车 顶 篷 帮 忙 关 掉 百 分 之 二 十 二
+__label__nuance_carcontrol 关 闭 从 那 边 吹 前 排
+__label__nuance_carcontrol 不 需 要 后 边 温 控 吹 副 驾 驶 的 人 情 景
+__label__nuance_carcontrol 退 出 前 面 温 控 对 人 吹 功 能
+__label__nuance_carcontrol 前 排 不 要 开 避 人 吹 风
+__label__nuance_carcontrol 不 要 运 行 了 空 调 ECON 情 景
+__label__nuance_carcontrol 关 闭 温 控 节 能 功 能
+__label__nuance_carcontrol 关 上 大 半 前 边 门 窗
+__label__nuance_carcontrol 节 能 功 能 不 要 开
+__label__nuance_carcontrol 所 有 人 窗 户 关 了 小 一 点 儿
+__label__nuance_carcontrol 空 调 都 不 用 了
+__label__nuance_carcontrol 左 窗 请 关 闭 一 条 缝
+__label__nuance_carcontrol 车 顶 篷 请 关 掉 一 半 以 上
+__label__nuance_carcontrol 别 运 行 车 窗
+__label__nuance_carcontrol 左 窗 子 摇 起 一 半 以 上
+__label__nuance_carcontrol econ 场 景 不 要 运 行 了
+__label__nuance_carcontrol 后 排 左 边 位 置 的 吹 窗 吹 脚 也 关 了
+__label__nuance_carcontrol 关 了 一 半 以 上 玻 璃
+__label__nuance_carcontrol 闭 条 缝 的 敞 蓬
+__label__nuance_carcontrol 主 主 驾 不 准 出 风
+__label__nuance_carcontrol 把 副 驾 这 里 车 窗 玻 璃 结 束 小 一 丝 丝
+__label__nuance_carcontrol 前 面 司 机 那 边 关 上 同 步
+__label__nuance_carcontrol 前 方 停 止 同 步
+__label__nuance_carcontrol 摇 起 来 百 分 之 97 车 窗 玻 璃
+__label__nuance_carcontrol 把 右 后 侧 窗 子 关 避 小 一 点 儿
+__label__nuance_carcontrol 不 要 运 行 区 域 控 制 控 制
+__label__nuance_carcontrol 消 音 停 止
+__label__nuance_carcontrol 我 不 想 显 示 暗 屏
+__label__nuance_carcontrol 关 上 了 百 分 之 四 十 二 左 窗 子
+__label__nuance_carcontrol 把 左 后 侧 玻 璃 关 百 分 之 67
+__label__nuance_carcontrol 我 要 关 了 温 控 吹 头 吹 脚
+__label__nuance_carcontrol 最 弱 的 制 冷 不 要 工 作 了
+__label__nuance_carcontrol 我 不 想 开 启 天 窗 通 风
+__label__nuance_carcontrol 停 温 控 制 冷 机
+__label__nuance_carcontrol 解 除 车 机 锁 屏 模 式
+__label__nuance_carcontrol 我 不 要 调 出 除 霜 与 吹 脚
+__label__nuance_carcontrol 后 面 温 控 关 掉
+__label__nuance_carcontrol 节 能 情 景 停 止
+__label__nuance_carcontrol 关 掉 驾 驶 室 车 窗 的 百 分 之 三 十 三
+__label__nuance_carcontrol 前 排 停 止 分 区 控 制
+__label__nuance_carcontrol 全 景 天 窗 帮 忙 关 百 分 之 九 十 四
+__label__nuance_carcontrol 右 侧 的 车 窗 关 闭 百 分 之 88
+__label__nuance_carcontrol 后 左 车 窗 停 止 运 行 小 一 点
+__label__nuance_carcontrol 空 调 制 冷 器 模 式 关 上
+__label__nuance_carcontrol 摇 起 十 分 之 九 的 汽 车 的 顶 篷
+__label__nuance_carcontrol 右 车 窗 给 我 关 掉 3%
+__label__nuance_carcontrol 把 左 后 窗 户 关 下 小 一 丝 丝
+__label__nuance_carcontrol 我 想 关 掉 主 驾 那 里 位 置 窗 帘
+__label__nuance_carcontrol 我 不 要 进 入 加 热 座 椅
+__label__nuance_carcontrol 敞 蓬 请 关 掉 六 分 之 二
+__label__nuance_carcontrol 后 左 窗 户 关 了 条 缝
+__label__nuance_carcontrol 右 方 的 窗 户 关 上 了 百 分 之 九 十 三
+__label__nuance_carcontrol 卷 阳 帘 都 停 用 吧
+__label__nuance_carcontrol 后 边 玻 璃 关 了 百 分 之 七
+__label__nuance_carcontrol 关 百 分 之 46 左 方 玻 璃
+__label__nuance_carcontrol 我 不 想 开 开 吹 风
+__label__nuance_carcontrol 温 控 ECON 停 止 运 行
+__label__nuance_carcontrol 把 后 面 车 窗 玻 璃 终 止 小 一 点
+__label__nuance_carcontrol 不 需 要 温 度 分 区 控 制
+__label__nuance_carcontrol 关 避 空 调
+__label__nuance_carcontrol 把 后 排 左 边 窗 户 不 要 百 分 之 三 十 九
+__label__nuance_carcontrol 前 面 副 驾 不 准 避 免 对 人 吹
+__label__nuance_carcontrol 空 调 冷 气 停
+__label__nuance_carcontrol 把 前 座 车 窗 玻 璃 结 束 小 一 点 点
+__label__nuance_carcontrol 前 排 结 束 避 人 吹
+__label__nuance_carcontrol 汽 车 的 顶 篷 帮 忙 闭 百 分 之 三 十
+__label__nuance_carcontrol 右 侧 窗 户 关 了 百 分 之 一 十 九
+__label__nuance_carcontrol 退 出 主 驾 那 边 温 控 温 度 同 步 功 能
+__label__nuance_carcontrol 中 控 的 屏 幕 黑 屏
+__label__nuance_carcontrol 空 调 不 用
+__label__nuance_carcontrol 车 顶 篷 给 我 关 大 点
+__label__nuance_carcontrol 关 掉 百 分 之 7 窗
+__label__nuance_carcontrol 左 后 边 位 置 的 脚 部 除 霜 退 出
+__label__nuance_carcontrol 关 掉 百 分 之 75 副 驾 驶 窗 子
+__label__nuance_carcontrol 主 驾 驶 停 下 风 力
+__label__nuance_carcontrol 关 一 点 儿 车 顶 篷
+__label__nuance_carcontrol 我 不 想 显 示 慢 刮 刷
+__label__nuance_carcontrol 关 闭 右 手 边 窗 子 的 一 点 点
+__label__nuance_carcontrol 把 前 排 窗 停 止 小 一 点 儿
+__label__nuance_carcontrol 后 边 窗 户 停 止 百 分 之 47
+__label__nuance_carcontrol 关 上 前 排 窗 户 一 丝 丝
+__label__nuance_carcontrol 摇 上 去 小 缝 的 窗 户
+__label__nuance_carcontrol 停 止 运 行 最 小 制 冷
+__label__nuance_carcontrol 消 音 关 掉
+__label__nuance_carcontrol 关 闭 百 分 之 81 的 车 窗 玻 璃
+__label__nuance_carcontrol 左 手 边 玻 璃 禁 用 八 分 之 二
+__label__nuance_carcontrol 停 ECON 功 能
+__label__nuance_carcontrol 主 驾 那 边 不 许 区 域 控 制
+__label__nuance_carcontrol 给 我 关 闭 后 右 的 空 调 吹 主 驾 的 人 场 景
+__label__nuance_carcontrol 结 束 econ
+__label__nuance_carcontrol 左 玻 璃 关 掉 10%
+__label__nuance_carcontrol 不 需 要 进 入 网 帘 了
+__label__nuance_carcontrol 关 掉 大 点 前 边 门 的 车 窗
+__label__nuance_carcontrol 关 闭 空 调 最 强 的 制 冷
+__label__nuance_carcontrol 不 需 要 调 出 净 化 器 了
+__label__nuance_carcontrol 左 方 门 窗 关 掉 百 分 之 八 十 五
+__label__nuance_carcontrol 停 了 小 一 丝 丝 窗 子
+__label__nuance_carcontrol 关 上 一 半 前 头 车 窗 玻 璃
+__label__nuance_carcontrol 不 要 最 弱 制 冷
+__label__nuance_carcontrol 不 要 小 一 点 儿 车 窗
+__label__nuance_carcontrol 关 上 了 大 半 左 侧 门 的 窗 户
+__label__nuance_carcontrol 右 后 边 门 的 车 窗 玻 璃 关 闭 百 分 之 21
+__label__nuance_carcontrol 关 上 温 控 强 制 冷
+__label__nuance_carcontrol 右 窗 给 我 关 掉 一 点 儿
+__label__nuance_carcontrol 这 边 空 调 风 量 场 景 都 关 了
+__label__nuance_carcontrol 窗 户 帮 忙 关 掉 一 半
+__label__nuance_carcontrol 不 要 工 作 了 远 光 灯
+__label__nuance_carcontrol 关 闭 右 面 窗 户 的 一 点 儿
