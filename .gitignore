@@ -1,1 +1,5 @@
+export_out
+
 .ipynb_checkpoints
+tmp_pdf_to_html
+*.bak
